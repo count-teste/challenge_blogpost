@@ -23,7 +23,7 @@ Este projeto React Native, desenvolvido com Expo, visa proporcionar uma experiê
 - **react navigation:**
     - **Motivo:** Emprega um sistema de navegação poderoso, aprimorando a estrutura geral do aplicativo e o fluxo do usuário.
 
-- **@navigation stack:**
+- **navigation stack:**
     - **Motivo:** Trabalha em conjunto com @react-navigation/native para fornecer uma estrutura de navegação baseada em pilha, essencial para navegar entre telas.
 
 - **axios:**
