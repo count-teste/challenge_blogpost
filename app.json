@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "challenge_blogpost",
+    "slug": "challenge_blogpost",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
